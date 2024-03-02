@@ -1,7 +1,7 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WELCOME TO RELIC DIGITAL"
+  subTitle: "WELCOME TO RELIC DIGITAL."
   title:
     firstPara: "Innovate."
     secondPara: "Thrive."
