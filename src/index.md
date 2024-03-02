@@ -1,10 +1,10 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "GET READY FOR SUCCESS WITH RELIC"
+  subTitle: ""
   title:
-    firstPara: "We Are Creators"
-    secondPara: "Who Believe In Great Ideas"
+    firstPara: "Innovate."
+    secondPara: "Thrive."
   seeWorkBtn:
     text: "See Our Works"
     link: "#project"
