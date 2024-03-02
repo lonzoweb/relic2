@@ -5,7 +5,7 @@
   "contactsInfo":[
     {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "text":"200 Biscayne Blvd STE 614, Miami, FL 33131"
     },
     {
       "link":"tel:409-896-1444",
@@ -17,7 +17,7 @@
     },
     {
       "link":"mailto:",
-      "text":"info@roxo.co"
+      "text":"info@relicdigital.com"
     }
   ],
 
@@ -65,5 +65,5 @@
   "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"From the top"
 }

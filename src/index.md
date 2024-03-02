@@ -1,15 +1,15 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "GET READY FOR SUCCESS WITH RELIC"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "We Are Creators"
+    secondPara: "Who Believe In Great Ideas"
   seeWorkBtn:
     text: "See Our Works"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Connect With Us"
     link: "contact"
 
 portfolio:
