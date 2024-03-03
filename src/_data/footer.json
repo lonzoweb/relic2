@@ -4,20 +4,20 @@
   "contactsHeading": "Contact Info",
   "contactsInfo":[
     {
+      "link":"",
+      "text":"Relic Digital"
+    },
+    {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
       "text":"200 Biscayne Blvd #614, Miami, FL"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
-    },
-    {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
+      "link":"tel:305-707-7080",
+      "text":"305-707-7080"
     },
     {
       "link":"mailto:",
-      "text":"info@relicdigital.com"
+      "text":"hello@relicdigital.com"
     }
   ],
 
@@ -62,7 +62,7 @@
   ],
   
   "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+  "brandMotto":["Check how many of your network are where you want to be.","produce valuable cultural content","create fresh brand experience"],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"From the top"
