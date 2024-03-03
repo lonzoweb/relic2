@@ -1073,6 +1073,7 @@ textarea.form-control {
   font-weight: 600;
   font-size: 19px;
   font-style: italic;
+  text-align: center;
 }
 .site-footer-widget-links {
   margin: 0;
