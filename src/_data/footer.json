@@ -3,10 +3,6 @@
 
   "contactsHeading": "Contact Info",
   "contactsInfo":[
-    // {
-    //   "link":"",
-    //   "text":"Relic Digital"
-    // },
     {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
       "text":"200 Biscayne Blvd #614, Miami, FL"
