@@ -3,10 +3,10 @@
 
   "contactsHeading": "Contact Info",
   "contactsInfo":[
-    {
-      "link":"",
-      "text":"Relic Digital"
-    },
+    // {
+    //   "link":"",
+    //   "text":"Relic Digital"
+    // },
     {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
       "text":"200 Biscayne Blvd #614, Miami, FL"
@@ -62,7 +62,7 @@
   ],
   
   "brandHeading":"We help brands:",
-  "brandMotto":["Check how many of your network are where you want to be.","produce valuable cultural content","create fresh brand experience"],
+  "brandMotto":["Shaping digital futures with ancient wisdom."],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"From the top"
