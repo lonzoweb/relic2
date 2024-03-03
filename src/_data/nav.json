@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["Home","About","Portfolio","Blog"],
+  "navLinks":["home","about","portfolio","blog"],
   "navBtnLink":"contact",
   "navBtnText":"CONTACT"
 }
