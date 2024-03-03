@@ -1,7 +1,7 @@
 ---
 layout: "layouts/blog.njk"
 title: "Relic Blog"
-des: "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+des: "We're bringing our years of experience and unlimited knowledge to Miami and to the world."
 pagination:
   data: collections.blogpost
   size: 4

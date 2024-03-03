@@ -17,10 +17,10 @@
             <div class="site-project-single-action d-flex justify-content-between mt-5">
               {% if previousPost%}
               <a href="{{previousPost.url}}">
-                <img class="rev" src="/assets/images/to-top.svg" alt="next project">
+                <img class="rev" src="/assets/images/to-top.svg" alt="next post">
                 <span class="link-area">
                   <span data-text="{{previousPost.data.title}}">
-                    Previous Project
+                    Previous Post
                   </span>
                 </span>
               </a>
@@ -29,10 +29,10 @@
               <a href="{{nextPost.url}}">
                 <span class="link-area">
                   <span data-text="{{nextPost.data.title}}">
-                    Next Project
+                    Next Post
                   </span>
                 </span>
-                <img src="/assets/images/to-top.svg" alt="next project">
+                <img src="/assets/images/to-top.svg" alt="next post">
               </a> 
               {% endif %} 
             </div>
