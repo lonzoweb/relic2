@@ -1,9 +1,9 @@
 {
-  "title": "team that makes the difference.",
+  "title": "stars of the show.",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
-      "dig": "Creative Director",
+      "name": "LEON GREEN",
+      "dig": "CEO / Director",
       "img": "/assets/images/team/team-member-one.jpg",
       "social":[
         {
@@ -22,7 +22,7 @@
     },
     {
       "name": "MONTINO RIAU",
-      "dig": "Product Manager",
+      "dig": "COO",
       "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
@@ -41,7 +41,7 @@
     },
     {
       "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
+      "dig": "CTO",
       "img": "/assets/images/team/team-member-three.jpg",
       "social":[
         {
@@ -60,7 +60,7 @@
     },
     {
       "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
+      "dig": "Account Executive",
       "img": "/assets/images/team/team-member-four.jpg",
       "social":[
         {
@@ -79,7 +79,7 @@
     },
     {
       "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
+      "dig": "Account Executive",
       "img": "/assets/images/team/team-member-five.jpg",
       "social":[
         {
